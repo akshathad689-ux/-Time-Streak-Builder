@@ -27,7 +27,6 @@ So, I decided to build my own VS Code extension.
 
 * TypeScript
 * Visual Studio Code Extension API
-* Node.js
 * VS Code Extension Development
 
 ## 📸 Dashboard
@@ -65,12 +64,11 @@ npm install
 
 ## 🎯 Future Improvements
 
-* Persistent practice history
-* Weekly and monthly statistics
-* Longest streak tracking
-* Custom daily practice goals
-* Export practice history
-* Improved dashboard UI
+📊 Weekly & Monthly Statistics
+🔥 Longest Streak
+🎯 Daily Practice Goal
+📈 Progress Charts
+🏆 Achievements & Badges
 
 ## 👩‍💻 About the Project
 
